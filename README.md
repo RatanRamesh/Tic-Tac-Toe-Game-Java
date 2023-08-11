@@ -1,4 +1,3 @@
-# Tic-Tac-Toe-Game-And-Digital-Clock
 # Tic Tac Toe Game and Digital Clock Project
 
 This Java project combines the classic game of Tic Tac Toe with a digital clock feature. The Tic Tac Toe game allows two players to compete against each other, while the digital clock displays the current time. This project demonstrates basic concepts of Java programming, user input handling, game logic, and graphical user interface (GUI) implementation.
